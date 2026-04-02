@@ -1,0 +1,5 @@
+{
+  "name": "VibeFlow",
+  "description": "A dynamic DAG-based AI agent workflow engine supporting parallel execution and intelligent topology planning using Gemini.",
+  "requestFramePermissions": []
+}
